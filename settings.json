@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Bizimle takıl: https://discord.gg/QwFARxRX3V",
-        "FELIX Discord sunucusu: https://discord.gg/QwFARxRX3V",
-        "Topluluğumuza katıl: https://discord.gg/QwFARxRX3V"
+        "Bizimle takıl: [https://discord.gg/QwFARxRX3V]",
+        "FELIX Discord sunucusu: [https://discord.gg/QwFARxRX3V]",
+        "Topluluğumuza katıl: [https://discord.gg/QwFARxRX3V]"
       ]
     },
     "chat-log": true,
