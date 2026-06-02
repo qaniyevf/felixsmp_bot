@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "felixsmp_bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "felixteamsmp.aternos.me:22898",
+    "port": 22898,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Bizimle takıl: [https://discord.gg/QwFARxRX3V]",
+        "FELIX Discord sunucusu: [https://discord.gg/QwFARxRX3V]",
+        "Topluluğumuza katıl: [https://discord.gg/QwFARxRX3V]"
       ]
     },
     "chat-log": true,
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "",
     "events": {
       "connect": true,
       "disconnect": true,
