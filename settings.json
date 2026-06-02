@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "felixteamsmp.aternos.me:22898",
+    "ip": "felixteamsmp.aternos.me",
     "port": 22898,
     "version": "",
     "try-creative": false
