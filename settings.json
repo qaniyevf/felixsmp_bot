@@ -1,7 +1,7 @@
 {
   "name": "bot",
   "bot-account": {
-    "username": "felixsmp_bot",
+    "username": "smp_bot",
     "password": "",
     "type": "offline"
   },
@@ -27,15 +27,15 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
-      "messages": [
-        "Bizimle takıl: https://discord.gg/QwFARxRX3V",
-        "FELIX Discord sunucusu: https://discord.gg/QwFARxRX3V",
-        "Topluluğumuza katıl: https://discord.gg/QwFARxRX3V"
-      ]
-    },
+    "enabled": true,
+    "repeat": true,
+    "repeat-delay": 120,
+    "messages": [
+      "&eBizimle takıl: https://discord.gg/QwFARxRX3V",
+      "&eFELIX Discord sunucusu: https://discord.gg/QwFARxRX3V",
+      "&eTopluluğumuza katıl: https://discord.gg/QwFARxRX3V"
+    ]
+  },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
