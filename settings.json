@@ -31,9 +31,9 @@
     "repeat": true,
     "repeat-delay": 120,
     "messages": [
-      "&eBizimle takıl: https://discord.gg/QwFARxRX3V",
-      "&eFELIX Discord sunucusu: https://discord.gg/QwFARxRX3V",
-      "&eTopluluğumuza katıl: https://discord.gg/QwFARxRX3V"
+      "§eBizimle takıl: https://discord.gg/QwFARxRX3V",
+      "§eFELIX Discord sunucusu: https://discord.gg/QwFARxRX3V",
+      "§eTopluluğumuza katıl: https://discord.gg/QwFARxRX3V"
     ]
   },
     "chat-log": true,
